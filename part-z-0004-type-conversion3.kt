@@ -8,7 +8,7 @@ fun main() {
     
     var x1 = x.toIntOrNull()
     
-	  var y1 = y.toIntOrNull()
+    var y1 = y.toIntOrNull()
     
     var z1 = z.toIntOrNull()
     

@@ -6,7 +6,7 @@ fun main() {
     
     var y1 = x.toString()
     
-  	var x1 = x.toDouble()
+	var x1 = x.toDouble()
     
     var x2 = x.toFloat()
     

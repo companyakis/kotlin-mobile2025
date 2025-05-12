@@ -12,7 +12,7 @@ fun main() {
     
     var z1 = z.toIntOrNull()
     
-    if(x1 != null && y1 != null && z1 != null) {
+    if (x1 != null && y1 != null && z1 != null) {
         
         val result1 = x1 + y1 + z1
         

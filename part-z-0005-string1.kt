@@ -4,7 +4,7 @@ fun main() {
     
     proverb = "Out of sight, out of mind!"
     
-	  var txt = ""
+    var txt = ""
     
     if (txt.isEmpty()) {
         
